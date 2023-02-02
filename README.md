@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Boothman
 - 👀 I’m a Frontend Developer at freewebstore.com
 - 👩‍💻 My current tech stack is: HTML, CSS, Javascript, C#, SEO, GIT, Adobe Illustrator, Adobe Fireworks
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Svelte
 - 📫 Reach me at: dannyboothman@gmail.com
 
 <!---
