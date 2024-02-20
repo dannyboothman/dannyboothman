@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Boothman
 - 👀 I’m a Frontend Developer at impactinternational.com
-- 👩‍💻 My current tech stack is: HTML, CSS, React, Javascript, C#, SEO, GIT, Adobe Illustrator, Adobe Fireworks
-- 🌱 I’m currently learning Prisma
+- 👩‍💻 My current tech stack is: HTML, CSS, React, Typescript/ Javascript, C#, Prisma, SEO, GIT, Adobe Illustrator
+- 🌱 I’m currently deep diving into Typescript
 - 📫 Reach me at: dannyboothman@gmail.com
 
 <!---
