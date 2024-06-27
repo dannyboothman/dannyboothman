@@ -2,5 +2,6 @@
 - 👀 I’m a Frontend Developer at uptic.io
 - 👨‍💻 Tech stack: HTML, CSS, React, Typescript/ Javascript, C#, Prisma, SEO, GIT,
 - 👨‍🎨 Design Stack: Figma, Adobe Illustrator
-- 🌱 I’m currently deep diving into Typescript, Figma, NextJS, and learning Dutch
+- 🤿 Deep diving into Typescript, Figma, and NextJS
+- 🇳🇱 Ik leer Nederlands spreken
 - 📫 Reach me at: dannyboothman@gmail.com
